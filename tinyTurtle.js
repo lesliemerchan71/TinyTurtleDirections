@@ -67,3 +67,8 @@ function TinyTurtle(canvas) {
 
   return self;
 }
+// tinyTurtle.js
+// 2013-10-11
+// Public Domain.
+// For more information, see http://github.com/toolness/tiny-turtle.
+
